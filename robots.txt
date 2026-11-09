@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://public.serveblog.net/sitemap.xml
+Sitemap: https://public.serveblog.net/sitemap.html
